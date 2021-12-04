@@ -1,0 +1,4 @@
+tensorflow==2.5.0
+fastapi
+numpy
+matplotlib
