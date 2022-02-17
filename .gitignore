@@ -8,4 +8,4 @@ __pycache__/*
 api/covid-19-lungs-120-adam.h5
 api/covid-19-lungs.h5
 outputs/*
-Learning_rate_peformance.csv
+Learning_rate_performance.csv
